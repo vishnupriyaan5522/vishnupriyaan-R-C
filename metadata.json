@@ -1,0 +1,6 @@
+{
+  "name": "SmartStudy AI",
+  "description": "AI-powered personal study planner for college students that creates realistic schedules based on subjects, deadlines, priorities, and study time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
